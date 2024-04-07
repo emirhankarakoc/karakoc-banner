@@ -1,0 +1,16 @@
+${AnsiColor.RED},--. ,--.  ,---.  ,------.   ,---.  ,--. ,--. ,-----. ,-----.
+${AnsiColor.BLUE}|  .'   / /  O  \ |  .--. ' /  O  \ |  .'   /'  .-.  '  .--./
+${AnsiColor.YELLOW}|  .   ' |  .-.  ||  '--'.'|  .-.  ||  .   ' |  | |  |  |
+${AnsiColor.GREEN}|  |\   \|  | |  ||  |\  \ |  | |  ||  |\   \'  '-'  '  '--'\
+${AnsiColor.MAGENTA}`--' '--'`--' `--'`--' '--'`--' `--'`--' '--' `-----' `-----'
+${AnsiColor.DEFAULT}
+
+
+
+
+
+
+burada ansicolor.RENK ile karakter rengini,
+AnsiBackground kullanarak da karakterin kapladigi alanin arkaplaninin rengini belirleyebilirsiniz.
+linki de bu https://devops.datenkollektiv.de/banner.txt/index.html
+iyi kodlamalar.
