@@ -7,7 +7,7 @@ ${AnsiBackground.DEFAULT}${AnsiColor.DEFAULT}
 
 
 
-
+projenizin main>resources klasorünün içerisinde application.properties dosyasının yanına, banner.txt adında bir dosya açın. içine yapıştırın.
 
 
 burada ansicolor.RENK ile karakter rengini,
