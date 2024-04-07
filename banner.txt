@@ -1,9 +1,9 @@
-${AnsiColor.RED},--. ,--.  ,---.  ,------.   ,---.  ,--. ,--. ,-----. ,-----.
-${AnsiColor.BLUE}|  .'   / /  O  \ |  .--. ' /  O  \ |  .'   /'  .-.  '  .--./
-${AnsiColor.YELLOW}|  .   ' |  .-.  ||  '--'.'|  .-.  ||  .   ' |  | |  |  |
-${AnsiColor.GREEN}|  |\   \|  | |  ||  |\  \ |  | |  ||  |\   \'  '-'  '  '--'\
-${AnsiColor.MAGENTA}`--' '--'`--' `--'`--' '--'`--' `--'`--' '--' `-----' `-----'
-${AnsiColor.DEFAULT}
+${AnsiBackground.BLACK}${AnsiColor.RED},--. ,--.  ,---.  ,------.   ,---.  ,--. ,--. ,-----. ,-----.
+${AnsiBackground.BLACK}${AnsiColor.BLUE}|  .'   / /  O  \ |  .--. ' /  O  \ |  .'   /'  .-.  '  .--./
+${AnsiBackground.BLACK}${AnsiColor.YELLOW}|  .   ' |  .-.  ||  '--'.'|  .-.  ||  .   ' |  | |  |  |
+${AnsiBackground.BLACK}${AnsiColor.GREEN}|  |\   \|  | |  ||  |\  \ |  | |  ||  |\   \'  '-'  '  '--'\
+${AnsiBackground.BLACK}${AnsiColor.MAGENTA}`--' '--'`--' `--'`--' '--'`--' `--'`--' '--' `-----' `-----'
+${AnsiBackground.DEFAULT}${AnsiColor.DEFAULT}
 
 
 
